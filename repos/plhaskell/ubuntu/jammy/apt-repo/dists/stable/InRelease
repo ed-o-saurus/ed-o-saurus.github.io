@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: PLHaskell Repository
+Label: PLHaskell
+Suite: stable
+Codename: stable
+Version: 2.0
+Architectures: amd64
+Components: main
+Description: PL/Haskell repository
+Date: Fri, 10 Feb 2023 15:24:50 +0000
+MD5Sum:
+ 7da0effb58e58abc5f266fecdfd114ab 1071 main/binary-amd64/Packages
+ 1ec38199d24c1c2d7b5573bae38d79cf 651 main/binary-amd64/Packages.gz
+SHA1:
+ 1e44440167cf8d9691cb3ab626ae299a81aa6722 1071 main/binary-amd64/Packages
+ 26a55e339bf6a47d7f08322256b1cce5765f39b7 651 main/binary-amd64/Packages.gz
+SHA256:
+ 34b8a870cde615a7d89aa1dbef5772ccbc8ac468acb50ac5822a624e170f8924 1071 main/binary-amd64/Packages
+ 0fa5e662dcd937ad9c326c24057c56c28de4114937f6be03091f1d447f41311a 651 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQRmZ9oZfqyEiMp0yScSfQmZqd1FFgUCY+Zr5QAKCRASfQmZqd1F
+FuxlAP4vszJ957ft4/V6T/Grns+IR20Sq9dNBb1rZ/sdbeF9VwD8C9zS4GG0HHIr
+vjWLrFql6RxUE7bEVFvw0jx+q/IltAI=
+=utMD
+-----END PGP SIGNATURE-----

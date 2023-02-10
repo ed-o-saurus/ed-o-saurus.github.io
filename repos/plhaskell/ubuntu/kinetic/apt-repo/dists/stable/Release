@@ -1,0 +1,18 @@
+Origin: PLHaskell Repository
+Label: PLHaskell
+Suite: stable
+Codename: stable
+Version: 2.0
+Architectures: amd64
+Components: main
+Description: PL/Haskell repository
+Date: Fri, 10 Feb 2023 15:25:22 +0000
+MD5Sum:
+ e1b012569548f8c12cbee6fd04962c1b 1072 main/binary-amd64/Packages
+ 10d4edbca091b66515e06bc0a5e0f585 652 main/binary-amd64/Packages.gz
+SHA1:
+ cc9a9ecaf21ec301a5883979a3eb0e5ab784c2a9 1072 main/binary-amd64/Packages
+ 1e61d6de9d38ba97a2722953c754d1a06ef6cbf1 652 main/binary-amd64/Packages.gz
+SHA256:
+ 25fb63971a63a54dd08d7cef463837164332057403a897ae8550c9ab7c45bae6 1072 main/binary-amd64/Packages
+ a4a930c6d6cc98ff6457b40ea1e24b57cf06bdb29e135823a28d1bee04fa6231 652 main/binary-amd64/Packages.gz
