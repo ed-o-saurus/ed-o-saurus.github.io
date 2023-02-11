@@ -1,0 +1,7 @@
+[plhaskell]
+name=PL/Haskell for Fedora $releasever - $basearch
+baseurl=https://ed-o-saurus.github.io/repos/plhaskell/fedora/fedora-$releasever-$basearch/packages
+enabled=1
+gpgcheck=1
+gpgkey=https://ed-o-saurus.github.io/keys/A9DD4516.asc
+repo_gpgcheck=1
