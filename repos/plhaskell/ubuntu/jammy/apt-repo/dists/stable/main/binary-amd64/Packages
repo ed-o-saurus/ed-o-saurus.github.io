@@ -1,14 +1,14 @@
 Package: plhaskell
-Version: 2.0-1
+Version: 2.1-1
 Architecture: amd64
 Maintainer: Ed Behn <ed@behn.us>
-Installed-Size: 406
+Installed-Size: 428
 Depends: libc6 (>= 2.14), libgmp10 (>= 2:6.2.1+dfsg), postgresql, ghc, libghc-hint-dev
-Filename: pool/main/plhaskell_2.0-1_amd64.deb
-Size: 85474
-MD5sum: 5069d189401437deb754f26f80385d12
-SHA1: 9215cece32b4b863ffb2649ae74b3d7b29cacb1c
-SHA256: 89671164d718f9ab011b55447064f17085c7be2b0b73013d40c3391e4d757d65
+Filename: pool/main/plhaskell_2.1-1_amd64.deb
+Size: 91770
+MD5sum: 9793ef8ce056287c40ff8fb4a05d7f22
+SHA1: 0dc87cabf07708155189263d02ebcd844ff27060
+SHA256: 407954cb75ec848bc2f2ff6778557bb1f3837dca2d5078b1d73730cdaf4d8ab2
 Section: Databases
 Priority: optional
 Multi-Arch: foreign

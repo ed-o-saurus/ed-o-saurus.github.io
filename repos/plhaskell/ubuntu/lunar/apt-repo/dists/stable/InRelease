@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: PLHaskell Repository
+Label: PLHaskell
+Suite: stable
+Codename: stable
+Version: 2.0
+Architectures: amd64
+Components: main
+Description: PL/Haskell repository
+Date: Mon, 08 May 2023 01:04:57 +0000
+MD5Sum:
+ 9c30bd9b41257578a86ac3eb92d9a2c2 1072 main/binary-amd64/Packages
+ 471cdc9de7c854fa3b3fb9e638260f21 653 main/binary-amd64/Packages.gz
+SHA1:
+ fe73291c8e9183b976571c651e09ef551eef531a 1072 main/binary-amd64/Packages
+ f13ad16b5015a5a99d977030660e38e1a913f110 653 main/binary-amd64/Packages.gz
+SHA256:
+ 037b89e2c4c26198ac348fb000cef630ead09d23d9e6745d31d6376311b19c57 1072 main/binary-amd64/Packages
+ a9d46e0c2acab5ab0fc36c93f79605f5ef9e13059b67bad726481c4899591073 653 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iIEEARYIACkWIQRmZ9oZfqyEiMp0yScSfQmZqd1FFgUCZFhLZgscZWRAYmVobi51
+cwAKCRASfQmZqd1FFj0fAP42/cGVOhklvjTZSA8YolfWWCXKiOD4fIhI0Dc4rxX9
+DQD/ejPCM3b7xEP6BJTg180aCwBAwAdAVdgEuobYqupF3Qs=
+=kbUg
+-----END PGP SIGNATURE-----

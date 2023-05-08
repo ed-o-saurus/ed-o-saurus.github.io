@@ -5,10 +5,10 @@ Maintainer: Ed Behn <ed@behn.us>
 Installed-Size: 400
 Depends: libc6 (>= 2.14), libgmp10 (>= 2:6.2.1+dfsg1), postgresql, ghc, libghc-hint-dev
 Filename: pool/main/plhaskell_2.1-1_amd64.deb
-Size: 88506
-MD5sum: f4b52d4f9851547dc995bc999004a12c
-SHA1: 90c9de4a690dbd1626d5e6faa8e5abc8d8d32979
-SHA256: a09a6c3b277460f930c99a81f8ccf1535a1c640cdad152fa314d8e96cf1e91e0
+Size: 88476
+MD5sum: 002131629413e63d2440e8616960ee68
+SHA1: 3f59552bd3ee882239df78483b56b832cf0c1762
+SHA256: 71dfd60eecd193512dab69cad1ddd02580004f92a8b8a39096d3108228b306e9
 Section: Databases
 Priority: optional
 Multi-Arch: foreign
