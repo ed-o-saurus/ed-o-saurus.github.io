@@ -9,23 +9,20 @@ Version: 2.0
 Architectures: amd64
 Components: main
 Description: PL/Haskell repository
-Date: Mon, 08 May 2023 00:20:59 +0000
+Date: Mon, 08 May 2023 21:26:28 +0000
 MD5Sum:
- 7f7ba5d330be0a514b139d9688ec128a 651 dists/stable/main/binary-amd64/Packages.gz
- a1067dade06559b4c1f6e33d6ec072fb 1071 dists/stable/main/binary-amd64/Packages
- 9793ef8ce056287c40ff8fb4a05d7f22 91770 pool/main/plhaskell_2.1-1_amd64.deb
+ 7f7ba5d330be0a514b139d9688ec128a 651 main/binary-amd64/Packages.gz
+ a1067dade06559b4c1f6e33d6ec072fb 1071 main/binary-amd64/Packages
 SHA1:
- 2fc9025dbaed172be98056e3ed12e58e484a1ba6 651 dists/stable/main/binary-amd64/Packages.gz
- 274202089e5ab61119ded5a4aa74c6d9ba4cfc62 1071 dists/stable/main/binary-amd64/Packages
- 0dc87cabf07708155189263d02ebcd844ff27060 91770 pool/main/plhaskell_2.1-1_amd64.deb
+ 2fc9025dbaed172be98056e3ed12e58e484a1ba6 651 main/binary-amd64/Packages.gz
+ 274202089e5ab61119ded5a4aa74c6d9ba4cfc62 1071 main/binary-amd64/Packages
 SHA256:
- f3461271452fc05940ae4376a10124682a2b5b0fe3f030af984eb6940a96a510 651 dists/stable/main/binary-amd64/Packages.gz
- c83f2ae620fcdebff80dc6458395701d30ce79eec9ba409006dfcc93df2b9df3 1071 dists/stable/main/binary-amd64/Packages
- 407954cb75ec848bc2f2ff6778557bb1f3837dca2d5078b1d73730cdaf4d8ab2 91770 pool/main/plhaskell_2.1-1_amd64.deb
+ f3461271452fc05940ae4376a10124682a2b5b0fe3f030af984eb6940a96a510 651 main/binary-amd64/Packages.gz
+ c83f2ae620fcdebff80dc6458395701d30ce79eec9ba409006dfcc93df2b9df3 1071 main/binary-amd64/Packages
 -----BEGIN PGP SIGNATURE-----
 
-iIEEARYIACkWIQRmZ9oZfqyEiMp0yScSfQmZqd1FFgUCZFhCwQscZWRAYmVobi51
-cwAKCRASfQmZqd1FFlaiAQCkd/ZgQFeFhDgWGXMBYhvLOBkY1YZOBeAQB2YZPgUl
-mgEAppXlhSTB2FIT8nrVDaoo6Mh7XfbndQrPNXFpq2lXogQ=
-=WiQP
+iIEEARYIACkWIQRmZ9oZfqyEiMp0yScSfQmZqd1FFgUCZFlpiAscZWRAYmVobi51
+cwAKCRASfQmZqd1FFvOJAQCBuBuTopk8tICBCuh/NJaNOQeqdhwgzP4HrveaPcG8
+LgEA46YsPdgIgwk2m+iwNYbcJozdvZPZhfFP1gMXXcyGOwg=
+=u1kt
 -----END PGP SIGNATURE-----
