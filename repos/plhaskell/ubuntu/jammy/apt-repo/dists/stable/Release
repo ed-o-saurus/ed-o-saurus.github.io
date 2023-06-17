@@ -6,13 +6,13 @@ Version: 2.0
 Architectures: amd64
 Components: main
 Description: PL/Haskell repository
-Date: Mon, 08 May 2023 21:26:28 +0000
+Date: Sat, 17 Jun 2023 18:48:33 +0000
 MD5Sum:
- 7f7ba5d330be0a514b139d9688ec128a 651 main/binary-amd64/Packages.gz
- a1067dade06559b4c1f6e33d6ec072fb 1071 main/binary-amd64/Packages
+ 5da2c0110646473085b731edf6744437 650 main/binary-amd64/Packages.gz
+ c46ff555bee6fbdf07742eb068fb640b 1071 main/binary-amd64/Packages
 SHA1:
- 2fc9025dbaed172be98056e3ed12e58e484a1ba6 651 main/binary-amd64/Packages.gz
- 274202089e5ab61119ded5a4aa74c6d9ba4cfc62 1071 main/binary-amd64/Packages
+ abaa2a56b516463a0819a9462f2b824e299723a3 650 main/binary-amd64/Packages.gz
+ 1a122c195bf39229391f9631fd291f8962e1dfb6 1071 main/binary-amd64/Packages
 SHA256:
- f3461271452fc05940ae4376a10124682a2b5b0fe3f030af984eb6940a96a510 651 main/binary-amd64/Packages.gz
- c83f2ae620fcdebff80dc6458395701d30ce79eec9ba409006dfcc93df2b9df3 1071 main/binary-amd64/Packages
+ 402734c9a68d90c00de1b257e72e5577b0b4a91350c1534da458ffd432f8da6d 650 main/binary-amd64/Packages.gz
+ 11a055fc1cd94706946ce861a135f4b3e7bea045cef31a08cd2173f917a29696 1071 main/binary-amd64/Packages
