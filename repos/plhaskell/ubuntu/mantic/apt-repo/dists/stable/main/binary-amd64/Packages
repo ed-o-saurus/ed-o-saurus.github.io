@@ -1,0 +1,25 @@
+Package: plhaskell
+Version: 3.1-1
+Architecture: amd64
+Maintainer: Ed Behn <ed@behn.us>
+Installed-Size: 400
+Depends: libc6 (>= 2.38), libgmp10 (>= 2:6.3.0+dfsg), postgresql, ghc, libghc-hint-dev
+Filename: pool/main/plhaskell_3.1-1_amd64.deb
+Size: 89392
+MD5sum: 841094a8e421b0028c9a4644a140952e
+SHA1: 4f9c987e0cd2774d56bc742e2e9931317de13629
+SHA256: 890fbf5dd3a50b71722e302aea7767e97a2d792f0e46b27ae33cab9a738a6720
+Section: Databases
+Priority: optional
+Multi-Arch: foreign
+Homepage: https://github.com/ed-o-saurus/PLHaskell
+Description: A Haskell extension for PostgreSQL that allows embedded Haskell code.
+ This project is a "procedural language" extension of PostgreSQL allowing the
+ execution of code in Haskell within SQL code. Despite the name, Haskell is, of
+ course, not a procedural language as it is a functional language. However,
+ "procedural language" is the term that PostgreSQL uses to describe languages
+ that can be embedded in its SQL code.
+ .
+ The extension allows users, even unprivileged ones, to write, install, and run
+ functions written in Haskell.
+

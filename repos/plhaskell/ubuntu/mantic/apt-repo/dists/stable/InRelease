@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Example Repository
+Label: Example
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64 arm64 arm7
+Components: main
+Description: An example software repository
+Date: Sat, 28 Oct 2023 22:32:16 +0000
+MD5Sum:
+ 304ebc1e4493de1999aad654705917b7 1071 main/binary-amd64/Packages
+ b7336b9d8f9e5cad37ccf862af23d063 652 main/binary-amd64/Packages.gz
+SHA1:
+ 1445e7d9175d3b037d29226f17ae174629714f2d 1071 main/binary-amd64/Packages
+ 2fc3cba28be51a370697339b7aa4b92b26c0fd43 652 main/binary-amd64/Packages.gz
+SHA256:
+ 1382c9f105971d91efc47025a4feb890c601f42a331b8bd6870795d4291edcdc 1071 main/binary-amd64/Packages
+ 6bd90abb5de2a525b3d6291cf8c40bbb543961053b3ad6b24adf636af21bae9d 652 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iIEEARYIACkWIQRmZ9oZfqyEiMp0yScSfQmZqd1FFgUCZT2MzAscZWRAYmVobi51
+cwAKCRASfQmZqd1FFtoJAQCOV+v/WqI8Io/SaQwhTQmaugfQhat4MCAmgXO1TtjW
+egD/Ut3/EQOZOGodnJalp4xgfoircjoe7f6AlDKGOk4iKwQ=
+=q4qj
+-----END PGP SIGNATURE-----
