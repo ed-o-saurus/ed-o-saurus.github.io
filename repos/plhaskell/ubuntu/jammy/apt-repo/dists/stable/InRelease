@@ -5,24 +5,24 @@ Origin: PLHaskell Repository
 Label: PLHaskell
 Suite: stable
 Codename: stable
-Version: 2.0
+Version: 4.0
 Architectures: amd64
 Components: main
-Description: PL/Haskell repository
-Date: Sat, 17 Jun 2023 18:48:33 +0000
+Description: PL/Haskell Repository
+Date: Sat, 13 Apr 2024 20:04:41 +0000
 MD5Sum:
- 5da2c0110646473085b731edf6744437 650 main/binary-amd64/Packages.gz
- c46ff555bee6fbdf07742eb068fb640b 1071 main/binary-amd64/Packages
+ e9dcc04f03265ca0f1f314a260aa0143 1072 main/binary-amd64/Packages
+ 217e73f212a23ce1857670fa70a3fce0 650 main/binary-amd64/Packages.gz
 SHA1:
- abaa2a56b516463a0819a9462f2b824e299723a3 650 main/binary-amd64/Packages.gz
- 1a122c195bf39229391f9631fd291f8962e1dfb6 1071 main/binary-amd64/Packages
+ 1daf84d8b8fda976f57f87f0257f9aa92b3de9a8 1072 main/binary-amd64/Packages
+ fc75ec4c1312e5b6717ddf2db61ed918fc9d6c12 650 main/binary-amd64/Packages.gz
 SHA256:
- 402734c9a68d90c00de1b257e72e5577b0b4a91350c1534da458ffd432f8da6d 650 main/binary-amd64/Packages.gz
- 11a055fc1cd94706946ce861a135f4b3e7bea045cef31a08cd2173f917a29696 1071 main/binary-amd64/Packages
+ cb83f3739539ac68c397f7796ada2af5618fbb1a5f549d7345bfaf3db9a2ad02 1072 main/binary-amd64/Packages
+ f4881d8cee7e5aa370d470247ce648d09b33135df29033fdec7e9684c7ed4e3a 650 main/binary-amd64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iIEEARYIACkWIQRmZ9oZfqyEiMp0yScSfQmZqd1FFgUCZI4A/AscZWRAYmVobi51
-cwAKCRASfQmZqd1FFnoKAP0cvzfwRR0yTwmg+UwKefxE0tNguz/UgcsZDOOs06Lu
-gwEAsjznkootbxQIIroUuRsLAIgk3HiGsWqfcRcsZd4iHgk=
-=92EW
+iHQEARYIAB0WIQRmZ9oZfqyEiMp0yScSfQmZqd1FFgUCZhrl8wAKCRASfQmZqd1F
+FiLhAP9uxi8/bqr1gi5vnr0Yshv3rjDvUDGDbKzfjMkTX4OwlwD40kycXM4Epg5I
+megUCo7ehtyeskfkqKidA66FzHcsCg==
+=0TOI
 -----END PGP SIGNATURE-----

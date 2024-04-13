@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: PLHaskell Repository
+Label: PLHaskell
+Suite: stable
+Codename: stable
+Version: 4.0
+Architectures: amd64
+Components: main
+Description: PL/Haskell Repository
+Date: Sat, 13 Apr 2024 20:28:43 +0000
+MD5Sum:
+ 3b636b6e171116bf43dea042c6e8b34f 654 main/binary-amd64/Packages.gz
+ 210c78ef80ef1c2fdf3ced9d0963dead 1072 main/binary-amd64/Packages
+SHA1:
+ 492d82b2a2b03708adb4a50339f21293e18f8f42 654 main/binary-amd64/Packages.gz
+ 973e6f08ea57f21093df3090cda2397a5e15782b 1072 main/binary-amd64/Packages
+SHA256:
+ 6b00ed1da4bfcab3c070763666300d3e3ccb117e43e983750f67fc277dbbf744 654 main/binary-amd64/Packages.gz
+ 0be122200791308ecd949c1bff76f38d88d318c42367b79902c1d10d3de8725c 1072 main/binary-amd64/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQRmZ9oZfqyEiMp0yScSfQmZqd1FFgUCZhrrUQAKCRASfQmZqd1F
+FiUlAP9/QmzAyu8E+K9z43w2P0UqHoERohxg8sO32qltAgbcawEA1c5mi+sd+Fp3
+rqcwf2OJSgEwtS9qr24SfiF0l5AgaQA=
+=hpsV
+-----END PGP SIGNATURE-----

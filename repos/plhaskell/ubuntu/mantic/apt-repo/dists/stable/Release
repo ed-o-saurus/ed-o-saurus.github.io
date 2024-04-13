@@ -1,18 +1,18 @@
-Origin: Example Repository
-Label: Example
+Origin: PLHaskell Repository
+Label: PLHaskell
 Suite: stable
 Codename: stable
-Version: 1.0
-Architectures: amd64 arm64 arm7
+Version: 4.0
+Architectures: amd64
 Components: main
-Description: An example software repository
-Date: Sat, 28 Oct 2023 22:32:16 +0000
+Description: PL/Haskell Repository
+Date: Sat, 13 Apr 2024 20:15:43 +0000
 MD5Sum:
- 304ebc1e4493de1999aad654705917b7 1071 main/binary-amd64/Packages
- b7336b9d8f9e5cad37ccf862af23d063 652 main/binary-amd64/Packages.gz
+ d9a27759591b65de8c05d030fbac8dfa 655 main/binary-amd64/Packages.gz
+ 56bb0113356d06062effa2c6df65970a 1072 main/binary-amd64/Packages
 SHA1:
- 1445e7d9175d3b037d29226f17ae174629714f2d 1071 main/binary-amd64/Packages
- 2fc3cba28be51a370697339b7aa4b92b26c0fd43 652 main/binary-amd64/Packages.gz
+ 06285a88bea997db0ebbdf6449a14250b664b53f 655 main/binary-amd64/Packages.gz
+ 11dc8604d38d2842a3b72bf810e89c6214a7976e 1072 main/binary-amd64/Packages
 SHA256:
- 1382c9f105971d91efc47025a4feb890c601f42a331b8bd6870795d4291edcdc 1071 main/binary-amd64/Packages
- 6bd90abb5de2a525b3d6291cf8c40bbb543961053b3ad6b24adf636af21bae9d 652 main/binary-amd64/Packages.gz
+ 616cefe1eade4c5c1926ff5c4af7ab569cb33c17ee8224227e3d6a87dff38e1c 655 main/binary-amd64/Packages.gz
+ 0fe8781b849c5169e8b613ea4eee74e5d07be2fbe5de8c178dfc352a8a07f2b5 1072 main/binary-amd64/Packages
