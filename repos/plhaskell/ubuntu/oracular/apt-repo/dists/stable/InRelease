@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Example Repository
+Label: Example
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64 arm64 arm7
+Components: main
+Description: An example software repository
+Date: Sun, 03 Nov 2024 13:23:42 +0000
+MD5Sum:
+ 5d0118abcbf8f6866a931c55cacb9615 654 main/binary-amd64/Packages.gz
+ 2220837b5e9cbc937d21ddbfde6dbeb7 1072 main/binary-amd64/Packages
+SHA1:
+ 16d66e2e9b587bce3448bc34d12438592535c8ba 654 main/binary-amd64/Packages.gz
+ 18c088fa9734071f2ddd8dd1baac149d1ac2d35b 1072 main/binary-amd64/Packages
+SHA256:
+ 97ad2a9aa820823accfe8ed305e9f2b6b8b96cfe1b0afa9bfe052b046a038b44 654 main/binary-amd64/Packages.gz
+ 523811cd8b09a1280b0e4a1aa62505529632337f423ddc09769ccacaa73f768b 1072 main/binary-amd64/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQRmZ9oZfqyEiMp0yScSfQmZqd1FFgUCZyd/egAKCRASfQmZqd1F
+Fsy+AQCpLEQZ7UnhzAOlNeeFn7ElR1YyXPbFjg0xfPYIQTCB8QEA4+ewmFqnvGYA
+PgXcp5hTM92mMpR9bNEM3GLXl/HNBgM=
+=mznz
+-----END PGP SIGNATURE-----
