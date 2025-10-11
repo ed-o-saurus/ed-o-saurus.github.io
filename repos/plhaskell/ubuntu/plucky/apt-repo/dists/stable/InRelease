@@ -1,0 +1,28 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: PL/Haskell Repository
+Label: PL/Haskell
+Suite: stable
+Codename: stable
+Version: 5.0
+Architectures: amd64
+Components: main
+Description: PL/Haskell repository
+Date: Sat, 11 Oct 2025 14:52:03 +0000
+MD5Sum:
+ 177dfe783ada1d968fb7ea044ec398bc 653 main/binary-amd64/Packages.gz
+ 77bf3eee0687d0cf9c9676fd016798bf 1073 main/binary-amd64/Packages
+SHA1:
+ 33745178b46d026c190cbdd9f1eb0dc59d785e60 653 main/binary-amd64/Packages.gz
+ d9801c04c8d9cc89fb29f50edac066afb3dfc25f 1073 main/binary-amd64/Packages
+SHA256:
+ 881a4f63051909b06ae37e8d07ac2f9c3e90a60e2b8ab3922361230842b3e2d1 653 main/binary-amd64/Packages.gz
+ 7c655ca6224b0041a5ab41dffddd01a58f5b65049699a8f62cdb982f5b5e79f9 1073 main/binary-amd64/Packages
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQRmZ9oZfqyEiMp0yScSfQmZqd1FFgUCaOpvZQAKCRASfQmZqd1F
+FkGdAQCuYJJL7u6s4e0c38ZTFiKLknm4noxpvar2pfwBOExYBgD5ARAu4aYxClUl
+fcLC1jEyRZN3kkqG/mgnrDXMPFeQKQI=
+=bfMB
+-----END PGP SIGNATURE-----
