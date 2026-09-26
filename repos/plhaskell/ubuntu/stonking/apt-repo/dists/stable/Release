@@ -1,0 +1,18 @@
+Origin: PL/Haskell Repository
+Label: PL/Haskell
+Suite: stable
+Codename: stable
+Version: 6.0
+Architectures: amd64
+Components: main
+Description: PL/Haskell repository
+Date: Sat, 26 Sep 2026 16:09:39 +0000
+MD5Sum:
+ a4f2ab58350f83159f089f88497a2650 663 main/binary-amd64/Packages.gz
+ ef697f7f39c81724e428740890174637 1076 main/binary-amd64/Packages
+SHA1:
+ a03cf3c196842e02ce10a8c3f899dfc8d56105f8 663 main/binary-amd64/Packages.gz
+ 578e46eb370d20ed56a51c9fe07434a3d7788d85 1076 main/binary-amd64/Packages
+SHA256:
+ 97ca5a04040d28dd1cbaaa14e0adc22e8557ce55d9efa4c6eaf0128899757054 663 main/binary-amd64/Packages.gz
+ 11c91968bf2a7b0adb83291efa468f86459d5a984046aec9315b7711d840fdc8 1076 main/binary-amd64/Packages

@@ -2,17 +2,17 @@ Origin: PL/Haskell Repository
 Label: PL/Haskell
 Suite: stable
 Codename: stable
-Version: 5.0
+Version: 6.0
 Architectures: amd64
 Components: main
 Description: PL/Haskell repository
-Date: Sat, 11 Oct 2025 14:40:51 +0000
+Date: Sat, 26 Sep 2026 16:14:24 +0000
 MD5Sum:
- cb8f25ac3e9107008336738fc1501c52 1073 main/binary-amd64/Packages
- b50cfa3e98cc5c70bb0c180f13d6133e 651 main/binary-amd64/Packages.gz
+ cbee098b269ee36ee057e89adcadbc53 662 main/binary-amd64/Packages.gz
+ c5898b2df5ff80524635a27da129a8f5 1076 main/binary-amd64/Packages
 SHA1:
- ee14f9c5021fbad58f0a31edd8a34be55baf3737 1073 main/binary-amd64/Packages
- b647a8786bf328eacb129131a36fb1eb1ca00c1a 651 main/binary-amd64/Packages.gz
+ 9ea4246139921a2b64489e8fa057b41a6d95cba0 662 main/binary-amd64/Packages.gz
+ 94617aa444e9baaf81c59eed632408c96bd024ed 1076 main/binary-amd64/Packages
 SHA256:
- b61fd872c2a7ed8b5a8424df6465f1ff524ddd6025efbfedb127d5d2365f3b0e 1073 main/binary-amd64/Packages
- dd5f8a1269f67c0143e1ecb7f4888ddc6b27742277f53b92aed08f814d8d572a 651 main/binary-amd64/Packages.gz
+ a2cbf45d083e6c3a96c069c8af93ed0b5389f7098a8cb2f34784bfbf531ec9f6 662 main/binary-amd64/Packages.gz
+ 5ce8579c344900ba063f74cbf500c1e60701544d08c27f783f520528b967899f 1076 main/binary-amd64/Packages
